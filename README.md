@@ -26,4 +26,4 @@
 
 #
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahamajlesi&show_icons=true&locale=en&layout=compact" alt="tahamajlesi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TahaMajlesi&show_icons=true&locale=en&layout=compact" alt="TahaMajlesi" /></p>
