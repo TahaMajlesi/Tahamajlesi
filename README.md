@@ -1,16 +1,10 @@
 <h1>Hi 👋, I'm Taha Majlesi</h1>
 
-### About Me 🌟
-I'm a passionate Frontend Developer from Iran, Tehran 🌎. I love creating engaging web experiences and sharing my projects with the community.
+**`Digital Craftsman (Frontend Developer/Creator)`**
 
-### What I Do 🎉
-You can find all my mini projects here on GitHub 📁. I'm always excited to work on new ideas and share them with you! Feel free to explore and let me know what you think! 💬
-<p align="left">
-      <a href="https://github.com/TahaMajlesi?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TahaMajlesi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/TahaMajlesi?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TahaMajlesi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+I'm an indie frontend developer and content creator building my version of the digital world one step at a time 🌎. All coding projects are crafted from the ground up, from planning and designing to solving real-life problems with code 💻. You can find all my mini projects here on GitHub 📁, where I share my passion for creating engaging web experiences 🌟.
+
+If you want to add more details about your projects or background, feel free to adjust it! 😊
 
 ---
 
