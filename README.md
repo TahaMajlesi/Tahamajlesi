@@ -51,5 +51,9 @@
 
 #
 
+### 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TahaMajlesi&show_icons=true&locale=en&layout=compact" alt="TahaMajlesi" /></p>
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaMajlesi&show_icons=true&theme=gruvbox)
+
+#
+
