@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taha Majlesi</h1>
-<h3 align="center">A passionate frontend developer from Iran !</h3>
-
-#
-
+<h1>Hi 👋, I'm Taha Majlesi</h1>
 ### About Me 🌟
 I'm a passionate Frontend Developer from Iran, Tehran 🌎. I love creating engaging web experiences and sharing my projects with the community.
 
