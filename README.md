@@ -3,18 +3,11 @@
 
 #
 
-- 🔭 I’m currently working on **A web based game**
+### About Me 🌟
+I'm a passionate Frontend Developer from Iran, Tehran 🌎. I love creating engaging web experiences and sharing my projects with the community.
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/TahaMajlesi)
-
-- 💬 Ask me about **BootStrap , Tailwind**
-
-- 📫 How to reach me **tahamajlesipour@gmail.com**
-
-- ⚡ Fun fact **listening to music 24/7**
-
+### What I Do 🎉
+You can find all my mini projects here on GitHub 📁. I'm always excited to work on new ideas and share them with you! Feel free to explore and let me know what you think! 💬
 <p align="left">
       <a href="https://github.com/TahaMajlesi?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TahaMajlesi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
