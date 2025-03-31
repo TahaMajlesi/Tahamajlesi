@@ -37,7 +37,7 @@ If you want to add more details about your projects or background, feel free to 
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaMajlesi&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaMjp&show_icons=true&theme=gruvbox)
 
 #
 
